@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Barley">
         <activity
-            android:name=".ProfileActivity"
+            android:name=".view.profile.ProfileActivity"
             android:exported="true" />
         <activity
             android:name=".MainActivity"

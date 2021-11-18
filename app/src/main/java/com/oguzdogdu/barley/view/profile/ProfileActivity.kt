@@ -1,4 +1,4 @@
-package com.oguzdogdu.barley
+package com.oguzdogdu.barley.view.profile
 
 import android.content.Context
 import android.content.Intent

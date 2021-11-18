@@ -7,6 +7,8 @@ import androidx.compose.material.Scaffold
 import androidx.compose.runtime.Composable
 import com.oguzdogdu.barley.data.Puppy
 import com.oguzdogdu.barley.ui.theme.BarleyTheme
+import com.oguzdogdu.barley.view.main.BarleyHomeContent
+import com.oguzdogdu.barley.view.profile.ProfileActivity
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

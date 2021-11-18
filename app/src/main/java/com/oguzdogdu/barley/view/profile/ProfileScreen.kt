@@ -1,4 +1,4 @@
-package com.oguzdogdu.barley
+package com.oguzdogdu.barley.view.profile
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.*
@@ -19,6 +19,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
+import com.oguzdogdu.barley.R
 import com.oguzdogdu.barley.data.Puppy
 
 @Composable

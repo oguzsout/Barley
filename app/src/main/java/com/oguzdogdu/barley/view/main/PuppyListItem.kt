@@ -1,4 +1,4 @@
-package com.oguzdogdu.barley
+package com.oguzdogdu.barley.view.main
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable
